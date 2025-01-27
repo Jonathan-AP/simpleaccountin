@@ -1,0 +1,56 @@
+c:\users\sola\documents\visual studio 2010\Projects\SimpleaccountingSys\SimpleaccountingSys\bin\Debug\SimpleaccountingSys.exe.config
+c:\users\sola\documents\visual studio 2010\Projects\SimpleaccountingSys\SimpleaccountingSys\obj\x86\Debug\SimpleaccountingSys.csprojResolveAssemblyReference.cache
+c:\users\sola\documents\visual studio 2010\Projects\SimpleaccountingSys\SimpleaccountingSys\obj\x86\Debug\SimpleaccountingSys.frmcashbank.resources
+c:\users\sola\documents\visual studio 2010\Projects\SimpleaccountingSys\SimpleaccountingSys\obj\x86\Debug\SimpleaccountingSys.frmChartofaccts.resources
+c:\users\sola\documents\visual studio 2010\Projects\SimpleaccountingSys\SimpleaccountingSys\obj\x86\Debug\SimpleaccountingSys.frmcustomers.resources
+c:\users\sola\documents\visual studio 2010\Projects\SimpleaccountingSys\SimpleaccountingSys\obj\x86\Debug\E_examination.frmpayment.resources
+c:\users\sola\documents\visual studio 2010\Projects\SimpleaccountingSys\SimpleaccountingSys\obj\x86\Debug\E_examination.MDIParent1.resources
+c:\users\sola\documents\visual studio 2010\Projects\SimpleaccountingSys\SimpleaccountingSys\obj\x86\Debug\SimpleaccountingSys.Properties.Resources.resources
+c:\users\sola\documents\visual studio 2010\Projects\SimpleaccountingSys\SimpleaccountingSys\obj\x86\Debug\SimpleaccountingSys.csproj.GenerateResource.Cache
+c:\users\sola\documents\visual studio 2010\Projects\SimpleaccountingSys\SimpleaccountingSys\bin\Debug\SimpleaccountingSys.exe
+c:\users\sola\documents\visual studio 2010\Projects\SimpleaccountingSys\SimpleaccountingSys\bin\Debug\SimpleaccountingSys.pdb
+c:\users\sola\documents\visual studio 2010\Projects\SimpleaccountingSys\SimpleaccountingSys\obj\x86\Debug\SimpleaccountingSys.exe
+c:\users\sola\documents\visual studio 2010\Projects\SimpleaccountingSys\SimpleaccountingSys\obj\x86\Debug\SimpleaccountingSys.pdb
+c:\users\sola\documents\visual studio 2010\Projects\SimpleaccountingSys\SimpleaccountingSys\obj\x86\Debug\SimpleaccountingSys.frmprofit_loss.resources
+c:\users\sola\documents\visual studio 2010\Projects\SimpleaccountingSys\SimpleaccountingSys\obj\x86\Debug\SimpleaccountingSys.frmcustomerstatements.resources
+c:\users\sola\documents\visual studio 2010\Projects\SimpleaccountingSys\SimpleaccountingSys\obj\x86\Debug\SimpleaccountingSys.frmcashbank_statem.resources
+C:\Users\User\Desktop\varios\SimpleaccountingSys\bin\Debug\SimpleaccountingSys.exe.config
+C:\Users\User\Desktop\varios\SimpleaccountingSys\bin\Debug\SimpleaccountingSys.exe
+C:\Users\User\Desktop\varios\SimpleaccountingSys\bin\Debug\SimpleaccountingSys.pdb
+C:\Users\User\Desktop\varios\SimpleaccountingSys\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\User\Desktop\varios\SimpleaccountingSys\bin\Debug\stdole.dll
+C:\Users\User\Desktop\varios\SimpleaccountingSys\obj\x86\Debug\SimpleaccountingSys.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\varios\SimpleaccountingSys\obj\x86\Debug\SimpleaccountingSys.frmcashbank_statem.resources
+C:\Users\User\Desktop\varios\SimpleaccountingSys\obj\x86\Debug\SimpleaccountingSys.frmcashbank.resources
+C:\Users\User\Desktop\varios\SimpleaccountingSys\obj\x86\Debug\SimpleaccountingSys.frmChartofaccts.resources
+C:\Users\User\Desktop\varios\SimpleaccountingSys\obj\x86\Debug\SimpleaccountingSys.frmcustomers.resources
+C:\Users\User\Desktop\varios\SimpleaccountingSys\obj\x86\Debug\SimpleaccountingSys.frmcustomerstatements.resources
+C:\Users\User\Desktop\varios\SimpleaccountingSys\obj\x86\Debug\E_examination.frmpayment.resources
+C:\Users\User\Desktop\varios\SimpleaccountingSys\obj\x86\Debug\SimpleaccountingSys.frmprofit_loss.resources
+C:\Users\User\Desktop\varios\SimpleaccountingSys\obj\x86\Debug\E_examination.MDIParent1.resources
+C:\Users\User\Desktop\varios\SimpleaccountingSys\obj\x86\Debug\SimpleaccountingSys.Properties.Resources.resources
+C:\Users\User\Desktop\varios\SimpleaccountingSys\obj\x86\Debug\SimpleaccountingSys.csproj.GenerateResource.cache
+C:\Users\User\Desktop\varios\SimpleaccountingSys\obj\x86\Debug\SimpleaccountingSys.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\varios\SimpleaccountingSys\obj\x86\Debug\Simpleac.3D4A6396.Up2Date
+C:\Users\User\Desktop\varios\SimpleaccountingSys\obj\x86\Debug\SimpleaccountingSys.exe
+C:\Users\User\Desktop\varios\SimpleaccountingSys\obj\x86\Debug\SimpleaccountingSys.pdb
+C:\Users\User\Desktop\SimpleaccountingSys\bin\Debug\SimpleaccountingSys.exe.config
+C:\Users\User\Desktop\SimpleaccountingSys\bin\Debug\SimpleaccountingSys.exe
+C:\Users\User\Desktop\SimpleaccountingSys\bin\Debug\SimpleaccountingSys.pdb
+C:\Users\User\Desktop\SimpleaccountingSys\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\User\Desktop\SimpleaccountingSys\bin\Debug\stdole.dll
+C:\Users\User\Desktop\SimpleaccountingSys\obj\x86\Debug\SimpleaccountingSys.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\SimpleaccountingSys\obj\x86\Debug\SimpleaccountingSys.frmcashbank_statem.resources
+C:\Users\User\Desktop\SimpleaccountingSys\obj\x86\Debug\SimpleaccountingSys.frmcashbank.resources
+C:\Users\User\Desktop\SimpleaccountingSys\obj\x86\Debug\SimpleaccountingSys.frmChartofaccts.resources
+C:\Users\User\Desktop\SimpleaccountingSys\obj\x86\Debug\SimpleaccountingSys.frmcustomers.resources
+C:\Users\User\Desktop\SimpleaccountingSys\obj\x86\Debug\SimpleaccountingSys.frmcustomerstatements.resources
+C:\Users\User\Desktop\SimpleaccountingSys\obj\x86\Debug\E_examination.frmpayment.resources
+C:\Users\User\Desktop\SimpleaccountingSys\obj\x86\Debug\SimpleaccountingSys.frmprofit_loss.resources
+C:\Users\User\Desktop\SimpleaccountingSys\obj\x86\Debug\E_examination.MDIParent1.resources
+C:\Users\User\Desktop\SimpleaccountingSys\obj\x86\Debug\SimpleaccountingSys.Properties.Resources.resources
+C:\Users\User\Desktop\SimpleaccountingSys\obj\x86\Debug\SimpleaccountingSys.csproj.GenerateResource.cache
+C:\Users\User\Desktop\SimpleaccountingSys\obj\x86\Debug\SimpleaccountingSys.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SimpleaccountingSys\obj\x86\Debug\Simpleac.3D4A6396.Up2Date
+C:\Users\User\Desktop\SimpleaccountingSys\obj\x86\Debug\SimpleaccountingSys.exe
+C:\Users\User\Desktop\SimpleaccountingSys\obj\x86\Debug\SimpleaccountingSys.pdb
